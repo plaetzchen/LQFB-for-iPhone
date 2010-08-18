@@ -1,0 +1,432 @@
+TLQFB
+v7
+r0
+t303578814.569847
+cCheck dependencies
+cProcessInfoPlistFile /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/Info.plist LQFB-Info.plist
+cCompileXIB /Users/pbrechler/Dropbox/XCode/LQFB/MainWindow.xib
+cCompileXIB /Users/pbrechler/Dropbox/XCode/LQFB/RootViewController.xib
+cProcessPCH /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch.gch LQFB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/main.o /Users/pbrechler/Dropbox/XCode/LQFB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/LQFBAppDelegate.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/LQFBAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/RootViewController.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/NSObject+SBJSON.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/NSString+SBJSON.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonBase.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonParser.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonWriter.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB normal i386
+cGenerateDSYMFile /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app.dSYM /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB
+cTouch /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3CFE500000000000000132
+t1279065680
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/JSON.h
+c000000004C5354180000000000000BE8
+t1280529432
+s3048
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSObject+SBJSON.h
+c000000004C535269000000000000085F
+t1280529001
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSObject+SBJSON.m
+c000000004C535269000000000000077D
+t1280529001
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSString+SBJSON.h
+c000000004C53526900000000000007F0
+t1280529001
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSString+SBJSON.m
+c000000004C535269000000000000075D
+t1280529001
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonBase.h
+c000000004C5352690000000000000B82
+t1280529001
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonBase.m
+c000000004C5352690000000000000AC1
+t1280529001
+s2753
+i"SBJsonBase.h"
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonParser.h
+c000000004C5352690000000000000C8F
+t1280529001
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonParser.m
+c000000004C5352690000000000003B7A
+t1280529001
+s15226
+i"SBJsonParser.h"
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonWriter.h
+c000000004C53526900000000000011D9
+t1280529001
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonWriter.m
+c000000004C53526900000000000020D8
+t1280529001
+s8408
+i"SBJsonWriter.h"
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/LQFBAppDelegate.h
+c000000004C68067A00000000000001D5
+t1281885818
+s469
+i<UIKit/UIKit.h>
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/LQFBAppDelegate.m
+c000000004C68067A0000000000000A9C
+t1281885818
+s2716
+i"LQFBAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.h
+c000000004C68067A00000000000000F3
+t1281885818
+s243
+i<UIKit/UIKit.h>
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m
+c000000004C68073400000000000011C7
+t1281886004
+s4551
+i"RootViewController.h"
+i"JSON/JSON.h"
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/LQFB_Prefix.pch
+c000000004C68067A000000000000013A
+t1281885818
+s314
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/MainWindow.xib
+c000000004C68067A0000000000005FE8
+t1281885818
+s24552
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/RootViewController.xib
+c000000004C68067A000000000000444F
+t1281885818
+s17487
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app
+t1281886014
+s238
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app.dSYM
+t1281886014
+s102
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/Info.plist
+t1281886006
+s579
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB
+t1281886014
+s47292
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/MainWindow.nib
+t1281886010
+s1506
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/PkgInfo
+t1281886006
+s8
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/RootViewController.nib
+t1281886010
+s979
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/LQFB.LinkFileList
+c000000004C68073600000000000003CD
+t1281886006
+s973
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/LQFBAppDelegate.o
+t1281886012
+s49228
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/NSObject+SBJSON.o
+t1281886012
+s7392
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/NSString+SBJSON.o
+t1281886013
+s7284
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/RootViewController.o
+t1281886012
+s39344
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonBase.o
+t1281886013
+s13212
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonParser.o
+t1281886013
+s36896
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonWriter.o
+t1281886013
+s26712
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/main.o
+t1281886012
+s6296
+
+N/Users/pbrechler/Dropbox/XCode/LQFB/main.m
+c000000004C68067A0000000000000171
+t1281885818
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch.gch
+t1281886012
+s10212912
+
+NLQFB-Info.plist
+c000000004C68067A000000000000038D
+t1281885818
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303578806#303578806#0(0"0(0#1#0"4276248#0"0#
+
+CCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/LQFBAppDelegate.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/LQFBAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303578812.489367
+e303578812.835896
+r1
+xCompileC
+xbuild/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/LQFBAppDelegate.o
+x/Users/pbrechler/Dropbox/XCode/LQFB/Classes/LQFBAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pbrechler/Dropbox/XCode/LQFB/Classes/LQFBAppDelegate.m303578812#303578812#0(0"0(0#0#61"/Users/pbrechler/Dropbox/XCode/LQFB/Classes/LQFBAppDelegate.m2453704640#1838"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-generated-files.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-own-target-headers.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-all-target-headers.hmap -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-project-headers.hmap -F/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -I/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/include -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources/i386 -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources -include /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch -c /Users/pbrechler/Dropbox/XCode/LQFB/Classes/LQFBAppDelegate.m -o /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/LQFBAppDelegate.o0#
+
+CCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/NSObject+SBJSON.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303578812.836080
+e303578812.992099
+r1
+xCompileC
+xbuild/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSObject+SBJSON.m303578812#303578812#0(0"0(0#0#66"/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSObject+SBJSON.m2453704640#1843"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-generated-files.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-own-target-headers.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-all-target-headers.hmap -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-project-headers.hmap -F/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -I/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/include -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources/i386 -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources -include /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch -c /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSObject+SBJSON.m -o /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/NSString+SBJSON.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303578812.992241
+e303578813.157014
+r1
+xCompileC
+xbuild/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSString+SBJSON.m303578812#303578813#0(0"0(0#0#66"/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSString+SBJSON.m4276248#1843"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-generated-files.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-own-target-headers.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-all-target-headers.hmap -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-project-headers.hmap -F/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -I/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/include -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources/i386 -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources -include /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch -c /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/NSString+SBJSON.m -o /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/RootViewController.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303578812.758834
+e303578813.015644
+r1
+xCompileC
+xbuild/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/RootViewController.o
+x/Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m: In function '-[RootViewController viewDidLoad]':
+o/Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m:22: warning: passing argument 1 of 'setTitle:' from incompatible pointer type
+lSLF07#2@72"Compile /Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m303578812#303578813#0(258"/Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m: In function '-[RootViewController viewDidLoad]':/Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m:22: warning: passing argument 1 of 'setTitle:' from incompatible pointer type1(22@64"Passing argument 1 of 'setTitle:' from incompatible pointer type303578812#115#143#0(6@64"/Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m303578804#22#0#22#0#56"passing argument * of '*' from incompatible pointer type0(0#0#64"/Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m2453704640#1844"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-generated-files.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-own-target-headers.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-all-target-headers.hmap -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-project-headers.hmap -F/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -I/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/include -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources/i386 -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources -include /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch -c /Users/pbrechler/Dropbox/XCode/LQFB/Classes/RootViewController.m -o /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonBase.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303578813.015872
+e303578813.309732
+r1
+xCompileC
+xbuild/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonBase.o
+x/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonBase.m303578813#303578813#0(0"0(0#0#61"/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonBase.m2453704640#1833"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-generated-files.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-own-target-headers.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-all-target-headers.hmap -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-project-headers.hmap -F/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -I/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/include -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources/i386 -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources -include /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch -c /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonBase.m -o /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonParser.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303578813.157282
+e303578813.624169
+r1
+xCompileC
+xbuild/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonParser.o
+x/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonParser.m303578813#303578813#0(0"0(0#0#63"/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonParser.m4276248#1837"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-generated-files.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-own-target-headers.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-all-target-headers.hmap -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-project-headers.hmap -F/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -I/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/include -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources/i386 -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources -include /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch -c /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonParser.m -o /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonWriter.o /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303578813.309870
+e303578813.530211
+r1
+xCompileC
+xbuild/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonWriter.m303578813#303578813#0(0"0(0#0#63"/Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonWriter.m2453704640#1837"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-generated-files.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-own-target-headers.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-all-target-headers.hmap -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-project-headers.hmap -F/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -I/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/include -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources/i386 -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources -include /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch -c /Users/pbrechler/Dropbox/XCode/LQFB/Classes/JSON/SBJsonWriter.m -o /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/main.o /Users/pbrechler/Dropbox/XCode/LQFB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303578812.486587
+e303578812.758403
+r1
+xCompileC
+xbuild/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/main.o
+x/Users/pbrechler/Dropbox/XCode/LQFB/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/pbrechler/Dropbox/XCode/LQFB/main.m303578812#303578812#0(0"0(0#0#42"/Users/pbrechler/Dropbox/XCode/LQFB/main.m2453704640#1808"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-generated-files.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-own-target-headers.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-all-target-headers.hmap -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-project-headers.hmap -F/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -I/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/include -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources/i386 -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources -include /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch -c /Users/pbrechler/Dropbox/XCode/LQFB/main.m -o /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pbrechler/Dropbox/XCode/LQFB/MainWindow.xib
+s303578806.455654
+e303578810.354268
+r1
+xCompileXIB
+x/Users/pbrechler/Dropbox/XCode/LQFB/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib303578806#303578810#0(0"0(0#0#50"/Users/pbrechler/Dropbox/XCode/LQFB/MainWindow.xib4276248#558"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/MainWindow.nib /Users/pbrechler/Dropbox/XCode/LQFB/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/pbrechler/Dropbox/XCode/LQFB/RootViewController.xib
+s303578806.493758
+e303578810.349473
+r1
+xCompileXIB
+x/Users/pbrechler/Dropbox/XCode/LQFB/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib303578806#303578810#0(0"0(0#0#58"/Users/pbrechler/Dropbox/XCode/LQFB/RootViewController.xib2453704640#574"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/RootViewController.nib /Users/pbrechler/Dropbox/XCode/LQFB/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app.dSYM /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB
+s303578814.393335
+e303578814.513751
+r1
+xGenerateDSYMFile
+x/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app.dSYM
+x/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/LQFB.app.dSYM build/Debug-iphonesimulator/LQFB.app/LQFB303578814#303578814#0(0"0(0#0#77"/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB2453704640#365"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB -o /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app.dSYM0#
+
+CLd /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB normal i386
+s303578813.624293
+e303578814.393010
+r1
+xLd
+x/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB
+xnormal
+xi386
+lSLF07#2@82"Link /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB303578813#303578814#0(0"0(0#0#0"2453704640#870"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -F/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -filelist /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/Objects-normal/i386/LQFB.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/LQFB0#
+
+CProcessInfoPlistFile /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/Info.plist LQFB-Info.plist
+s303578806.324511
+e303578806.455369
+r1
+xProcessInfoPlistFile
+x/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/Info.plist
+xLQFB-Info.plist
+lSLF07#2@23"Process LQFB-Info.plist303578806#303578806#0(0"0(0#0#51"/Users/pbrechler/Dropbox/XCode/LQFB/LQFB-Info.plist4276248#461"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LQFB-Info.plist -genpkginfo /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app/Info.plist0#
+
+CProcessPCH /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch.gch LQFB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303578810.354870
+e303578812.486306
+r1
+xProcessPCH
+x/var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch.gch
+xLQFB_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile LQFB_Prefix.pch303578810#303578812#0(0"0(0#0#51"/Users/pbrechler/Dropbox/XCode/LQFB/LQFB_Prefix.pch2453704640#1706"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-generated-files.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-own-target-headers.hmap -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-all-target-headers.hmap -iquote /Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/LQFB-project-headers.hmap -F/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator -I/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/include -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources/i386 -I/Users/pbrechler/Dropbox/XCode/LQFB/build/LQFB.build/Debug-iphonesimulator/LQFB.build/DerivedSources -c /Users/pbrechler/Dropbox/XCode/LQFB/LQFB_Prefix.pch -o /var/folders/UT/UTyD-cYoEWaWGBtrNO-bCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LQFB_Prefix-fshjmohzvozwoqbhwbusvolahyct/LQFB_Prefix.pch.gch0#
+
+CTouch /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app
+s303578814.513945
+e303578814.569654
+r1
+xTouch
+x/Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app
+lSLF07#2@78"Touch /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app303578814#303578814#0(0"0(0#0#0"2453704640#269"    cd /Users/pbrechler/Dropbox/XCode/LQFB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pbrechler/Dropbox/XCode/LQFB/build/Debug-iphonesimulator/LQFB.app0#
+

@@ -1,0 +1,5 @@
+/Users/pbrechler/Dropbox/XCode/LQFB/Classes/InitiativeDetailViewController.m: In function '-[InitiativeDetailViewController viewDidLoad]':
+/Users/pbrechler/Dropbox/XCode/LQFB/Classes/InitiativeDetailViewController.m:29: warning: 'NSString' may not respond to '-stringByReplacingOccurancesOfString:withString:'
+/Users/pbrechler/Dropbox/XCode/LQFB/Classes/InitiativeDetailViewController.m:29: warning: (Messages without a matching method signature
+/Users/pbrechler/Dropbox/XCode/LQFB/Classes/InitiativeDetailViewController.m:29: warning: will be assumed to return 'id' and accept
+/Users/pbrechler/Dropbox/XCode/LQFB/Classes/InitiativeDetailViewController.m:29: warning: '...' as arguments.)
